@@ -5,7 +5,8 @@ import random
 import pickle
 from datetime import datetime
 
-MODEL_PATH = "edge_model.pkl"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MODEL_PATH = os.path.join(BASE_DIR, "edge_model.pkl")
 
 class EdgeNodeClassifier:
     """

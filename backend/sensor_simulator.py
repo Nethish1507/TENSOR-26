@@ -4,8 +4,9 @@ import os
 import random
 from edge_inference import EdgeNodeClassifier
 
-ALERTS_FILE = "live_alerts.json"
-GPS_FILE = "live_gps.json"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ALERTS_FILE = os.path.join(BASE_DIR, "live_alerts.json")
+GPS_FILE = os.path.join(BASE_DIR, "live_gps.json")
 
 edge_node = EdgeNodeClassifier()
 

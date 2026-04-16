@@ -62,7 +62,8 @@ st.title("Ranger Command Center")
 # Layout
 col1, col2 = st.columns([2, 1])
 
-ALERTS_FILE = "live_alerts.json"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ALERTS_FILE = os.path.join(BASE_DIR, "live_alerts.json")
 
 def get_alerts():
     if os.path.exists(ALERTS_FILE):
