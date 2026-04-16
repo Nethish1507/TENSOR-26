@@ -1,0 +1,202 @@
+[
+  {
+    "timestamp": "16:52:42",
+    "lat": 44.48617758796441,
+    "lon": -110.5116901187953,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.91,
+    "latency": 0.29,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:52:32",
+    "lat": 44.49337237099954,
+    "lon": -110.48657366170282,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.82,
+    "latency": 0.22,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:52:29",
+    "lat": 44.50192804910105,
+    "lon": -110.48451806082998,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Poaching (Gunshot)",
+    "confidence": 0.95,
+    "latency": 0.44,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:52:23",
+    "lat": 44.492337714866494,
+    "lon": -110.49154284268917,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.88,
+    "latency": 0.25,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:52:14",
+    "lat": 44.513501560515664,
+    "lon": -110.5112720657465,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Poaching (Chainsaw)",
+    "confidence": 0.95,
+    "latency": 0.4,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:52:06",
+    "lat": 44.48770634177581,
+    "lon": -110.49488841891748,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Poaching (Chainsaw)",
+    "confidence": 0.61,
+    "latency": 0.5,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:52:01",
+    "lat": 44.50356618437487,
+    "lon": -110.48214585528918,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.83,
+    "latency": 0.21,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:56",
+    "lat": 44.48067802715548,
+    "lon": -110.48838566297987,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Background/Wildlife",
+    "confidence": 0.95,
+    "latency": 0.37,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:49",
+    "lat": 44.51811071560423,
+    "lon": -110.5095920435047,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.88,
+    "latency": 0.24,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:41",
+    "lat": 44.497556461816025,
+    "lon": -110.51247600011779,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.94,
+    "latency": 0.13,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:32",
+    "lat": 44.51987085370113,
+    "lon": -110.48767062433154,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.84,
+    "latency": 0.21,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:27",
+    "lat": 44.48010654898154,
+    "lon": -110.48421428838651,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Poaching (Chainsaw)",
+    "confidence": 0.92,
+    "latency": 0.72,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:21",
+    "lat": 44.49472454934486,
+    "lon": -110.50736165482488,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.91,
+    "latency": 0.29,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:16",
+    "lat": 44.491473663388945,
+    "lon": -110.50406586510138,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Poaching (Gunshot)",
+    "confidence": 0.96,
+    "latency": 0.45,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:11",
+    "lat": 44.49818375077189,
+    "lon": -110.51102622671992,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Poaching (Gunshot)",
+    "confidence": 0.91,
+    "latency": 0.66,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:51:07",
+    "lat": 44.48694012587033,
+    "lon": -110.4857151638131,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.83,
+    "latency": 0.11,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:50:57",
+    "lat": 44.48701376032628,
+    "lon": -110.49726769533781,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Background/Wildlife",
+    "confidence": 0.96,
+    "latency": 0.32,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:50:49",
+    "lat": 44.489969207747095,
+    "lon": -110.51911635605902,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.82,
+    "latency": 0.2,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:50:42",
+    "lat": 44.519539096512105,
+    "lon": -110.50716253192836,
+    "sensor_type": "GPS Collar",
+    "threat_class": "Animal Distress (Scattering)",
+    "confidence": 0.87,
+    "latency": 0.21,
+    "model_mb": 1.0
+  },
+  {
+    "timestamp": "16:50:39",
+    "lat": 44.5097318802026,
+    "lon": -110.48120194685123,
+    "sensor_type": "Acoustic Node",
+    "threat_class": "Poaching (Chainsaw)",
+    "confidence": 0.86,
+    "latency": 0.65,
+    "model_mb": 1.0
+  }
+]
