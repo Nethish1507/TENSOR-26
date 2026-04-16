@@ -12,7 +12,7 @@ edge_node = EdgeNodeClassifier()
 base_lat, base_lon = 44.5, -110.5
 
 def random_coordinate():
-    return [base_lat + random.uniform(-0.02, 0.02), base_lon + random.uniform(-0.02, 0.02)]
+    return [base_lat + random.uniform(-0.15, 0.15), base_lon + random.uniform(-0.15, 0.15)]
 
 def reset_files():
     with open(ALERTS_FILE, 'w') as f:
